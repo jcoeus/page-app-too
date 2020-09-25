@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/page-app-too/static/css/main.1717ccde.chunk.css",
+    "main.js": "/page-app-too/static/js/main.cb622348.chunk.js",
+    "main.js.map": "/page-app-too/static/js/main.cb622348.chunk.js.map",
+    "runtime-main.js": "/page-app-too/static/js/runtime-main.aed5e223.js",
+    "runtime-main.js.map": "/page-app-too/static/js/runtime-main.aed5e223.js.map",
+    "static/css/2.bba9580a.chunk.css": "/page-app-too/static/css/2.bba9580a.chunk.css",
+    "static/js/2.b54da63a.chunk.js": "/page-app-too/static/js/2.b54da63a.chunk.js",
+    "static/js/2.b54da63a.chunk.js.map": "/page-app-too/static/js/2.b54da63a.chunk.js.map",
+    "index.html": "/page-app-too/index.html",
+    "precache-manifest.9b875bc7d21a98bca36e524d98a007f8.js": "/page-app-too/precache-manifest.9b875bc7d21a98bca36e524d98a007f8.js",
+    "service-worker.js": "/page-app-too/service-worker.js",
+    "static/css/2.bba9580a.chunk.css.map": "/page-app-too/static/css/2.bba9580a.chunk.css.map",
+    "static/css/main.1717ccde.chunk.css.map": "/page-app-too/static/css/main.1717ccde.chunk.css.map",
+    "static/js/2.b54da63a.chunk.js.LICENSE.txt": "/page-app-too/static/js/2.b54da63a.chunk.js.LICENSE.txt",
+    "static/media/FigOne.png": "/page-app-too/static/media/FigOne.5b7a72f9.png",
+    "static/media/katex.min.css": "/page-app-too/static/media/KaTeX_Typewriter-Regular.6cc31ea5.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aed5e223.js",
+    "static/css/2.bba9580a.chunk.css",
+    "static/js/2.b54da63a.chunk.js",
+    "static/css/main.1717ccde.chunk.css",
+    "static/js/main.cb622348.chunk.js"
+  ]
+}
